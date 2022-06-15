@@ -1,0 +1,7 @@
+{
+  "client_id": "dummy",
+  "client_secret": "dummy",
+  "quota_project_id": "dummy",
+  "refresh_token": "dummy",
+  "type": "authorized_user"
+}
